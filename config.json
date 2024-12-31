@@ -1,0 +1,8 @@
+{
+    "font" : "Helvetica",
+    "font_size" : 50,
+    "font_size_finish_position":75,
+    "font_size_message":120,
+    "font_size_debug" : 13
+    
+}
